@@ -11,6 +11,8 @@
 
 [https://www.codewars.com/users/sofiaPeshekhonova/badges/large](https://www.codewars.com/users/sofiaPeshekhonova/badges/large)
 
+[![codewars](https://www.codewars.com/users/sofiaPeshekhonova/badges/large)](https://www.codewars.com/users/sofiaPeshekhonova)   
+
 
 ### :fire: My Stats :
 
