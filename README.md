@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
  </div> 
 
-https://www.codewars.com/users/sofiaPeshekhonova/badges/large
+[https://www.codewars.com/users/sofiaPeshekhonova/badges/large](https://www.codewars.com/users/sofiaPeshekhonova/badges/large)
 
 
 ### :fire: My Stats :
