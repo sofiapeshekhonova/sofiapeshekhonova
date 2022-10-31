@@ -11,4 +11,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?sofiapeshekhonova&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiapeshekhonova&theme=dark&hide_border=true&border_radius=6.5)](https://git.io/streak-stats)
