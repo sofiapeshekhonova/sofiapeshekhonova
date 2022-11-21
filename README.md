@@ -1,6 +1,16 @@
 ### :woman_student: Peshekhonova Sofia
 
 ---
+# Всем привет! Меня зовут Соня
+* Сейчас прохожу обучение в Яндекс Практикуме на Фротенд разработчика
+* Учусь писать чистый и понятный код 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="peshehonova_94@mail.ru" target="blank"><img align="center" src="./mail.svg" alt="SofiaPeshekhonova" height="40" width="40" /></a>
+<a href="https://t.me/SofiaPeshekhonova" target="blank"><img align="center" src="./tel.svg" alt="SofiaPeshekhonova" height="35" width="40" /></a>
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -19,4 +29,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiapeshekhonova&theme=dark&hide_border=true&border_radius=6.5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiapeshekhonova&theme=lightk&hide_border=true&border_radius=6.5)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiapeshekhonova&show_icons=true&locale=en" alt="sofiapeshekhonova" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiapeshekhonova&show_icons=true&locale=en&layout=compact" alt="sofiapeshekhonova" /></p
