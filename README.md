@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="peshehonova_94@mail.ru" target="blank"><img align="center" src="./mail.svg" alt="SofiaPeshekhonova" height="40" width="40" /></a>
+<a href="mailto:peshehonova_94@mail.ru" target="blank"><img align="center" src="./mail.svg" alt="SofiaPeshekhonova" height="40" width="40" /></a>
 <a href="https://t.me/SofiaPeshekhonova" target="blank"><img align="center" src="./tel.svg" alt="SofiaPeshekhonova" height="35" width="40" /></a>
 </p>
 
